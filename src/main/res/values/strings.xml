@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="hello_world_again">Hello World! Again...</string>
+    <string name="txtview_2dfgdasdasdasdasdasdasdasdafgfdgdfgfdgdfgdfgdfgdfskl">Еще какой-то текст TxtView 2dfgdasdasdasdasdasdasdasdafgfdgdfgfdgdfgdfgdfgdfskl</string>
+    <string name="test_1">TEST 1</string>
+    <string name="type_your_edittext_example_here">Type your EditText example here</string>
+    <string name="test2">TEST2</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="toggle_button_is_off">Toggle_Button is OFF</string>
+    <string name="toggle_button_is_on">Toggle_Button is ON</string>
 </resources>
